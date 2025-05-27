@@ -23,7 +23,7 @@ Learn more about RevenueBase's email verification services at: [https://revenueb
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/avivshafir/revenuebase-mcp-server
 cd revenuebase-mcp-server
 ```
 
